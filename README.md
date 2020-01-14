@@ -1,5 +1,5 @@
 # phaser-gulp-typescript-template
-Phaser TypeScript with gulp template using watchify, babelify, browserify, fancy-log, tsify, vinyl-buffer, sourcemaps etc.
+Phaser TypeScript with gulp template using gulp-connect, watchify, babelify, browserify, fancy-log, tsify, vinyl-buffer, sourcemaps etc.
 
 ## How to use
 1. Run `npm install`
