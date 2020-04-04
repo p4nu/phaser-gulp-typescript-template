@@ -1,4 +1,4 @@
-import * as Phaser from 'phaser';
+import 'phaser';
 
 const config = {
     type: Phaser.AUTO,
