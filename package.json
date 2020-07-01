@@ -9,7 +9,7 @@
   "author": "Panu Valtanen",
   "license": "ISC",
   "devDependencies": {
-    "@babel/core": "7.9.0",
+    "@babel/core": "7.10.4",
     "@babel/preset-env": "7.9.0",
     "babelify": "10.0.0",
     "browserify": "16.5.1",
