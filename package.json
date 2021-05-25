@@ -4,6 +4,7 @@
   "description": "Phaser TypeScript with gulp template using gulp-connect, watchify, babelify, browserify, fancy-log, tsify, vinyl-buffer, sourcemaps etc.",
   "main": "index.js",
   "scripts": {
+    "start": "gulp",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Panu Valtanen",

@@ -3,5 +3,5 @@ Phaser TypeScript with gulp template using gulp-connect, watchify, babelify, bro
 
 ## How to use
 1. Run `npm install`
-2. Run `gulp`
+2. Run `npm start`
 3. Head to `http://localhost:8080` and go see phaser demo
